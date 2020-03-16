@@ -2,6 +2,12 @@
 
 This is just a boilerplate for admin panel built in react, bootstrap, react-bootstrap and redux
 
+## Quick Start
+
+clone/download this repo, goto the project directory and run this script
+
+### `npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
