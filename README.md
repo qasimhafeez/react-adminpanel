@@ -1,3 +1,7 @@
+## Admin panel Boilerplate
+
+This is just a boilerplate for admin panel built in react, bootstrap, react-bootstrap and redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
